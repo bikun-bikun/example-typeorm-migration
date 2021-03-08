@@ -19,6 +19,12 @@ export class Test1 {
     add_col2: string;
 
     @Column()
+    add_col3: string;
+
+    @Column()
+    add_col4: string;
+
+    @Column()
     add_col5: string;
 
     @Column()
