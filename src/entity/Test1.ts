@@ -10,6 +10,9 @@ export class Test1 {
     test_field1: string;
 
     @Column()
+    test_field2: string;
+
+    @Column()
     add_col1: string;
 
     @Column()
