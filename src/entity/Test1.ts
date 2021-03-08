@@ -17,4 +17,10 @@ export class Test1 {
 
     @Column()
     add_col2: string;
+
+    @Column()
+    add_col5: string;
+
+    @Column()
+    add_col6: string;
 }
