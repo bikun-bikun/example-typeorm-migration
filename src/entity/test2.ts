@@ -9,4 +9,9 @@ export class Test2 {
     @Column()
     test_field2: string;
 
+    @Column()
+    migration_file3: string;
+
+    @Column()
+    migration_file4: string;
 }
