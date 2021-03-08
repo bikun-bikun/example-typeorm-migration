@@ -10,5 +10,8 @@ export class Test1 {
     test_field1: string;
 
     @Column()
+    add_col1: string;
+
+    @Column()
     add_col2: string;
 }
