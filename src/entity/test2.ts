@@ -10,8 +10,15 @@ export class Test2 {
     test_field2: string;
 
     @Column()
+    migration_file1: string;
+
+    @Column()
+    migration_file2: string;
+
+    @Column()
     migration_file3: string;
 
     @Column()
     migration_file4: string;
+
 }
